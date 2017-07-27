@@ -5,7 +5,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 
 ## Development and Hosting Options
 
-* [Linux App Service: Wordpress + MySQL](https://github.com/Azure-App-Service/apps/tree/master/Wordpress)
+* [Linux App Service: Wordpress + MySQL](https://github.com/Azure-App-Service/apps/tree/master/Wordpress) :thumbsup:
 * [Linux App Service: Drupal + MySQL](https://github.com/Azure-App-Service/apps/tree/master/drupal-mysql)
 * [Linx App Service: Magneto + MySQL](https://github.com/Azure-App-Service/apps/tree/master/Magneto)
 * [Node.js + MongoDB](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-nodejs-mongodb-app)
