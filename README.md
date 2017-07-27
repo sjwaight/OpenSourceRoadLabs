@@ -82,6 +82,8 @@ If you wish to add something or find something out-of-date or that doesn't work.
 
 * [Manage Linux Web App With Container Registry - in Java](https://github.com/Azure-Samples/app-service-java-deploy-image-from-acr-to-linux)
 * [Azure Container Instances Quick Start](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart)
+* [Azure Container Intances Multi-container groups](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-multi-container-group)
+* [Azure Container Intances - mounting Azure Files Volumes](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-mounting-azure-files-volume)
 * [Azure Voting App](https://github.com/Azure-Samples/azure-voting-app)
 * [Hosting Jekyll on Azure App Service on Linux](http://anthonychu.ca/post/jekyll-azure-app-service-linux/)
 * [Jenkins integration with Azure Container Service and Kubernetes](https://docs.microsoft.com/en-us/azure/container-service/container-service-kubernetes-jenkins)
