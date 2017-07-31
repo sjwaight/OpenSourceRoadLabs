@@ -9,7 +9,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Linux App Service: Drupal + MySQL](https://github.com/Azure-App-Service/apps/tree/master/drupal-mysql)
 * [Linx App Service: Magneto + MySQL](https://github.com/Azure-App-Service/apps/tree/master/Magneto)
 * [Node.js + MongoDB](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-nodejs-mongodb-app)
-* [PHP (Laravel) + MySQL](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-php-mysql)
+* [PHP (Laravel) + MySQL](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-php-mysql) - [notes](PHP-Laravel+MySQL.md) :thumbsup:
 * [Python + PostgreSQL](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-docker-python-postgresql-app)
 * [Create Node.js App](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-nodejs)
 * [Create Java App](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-java)
