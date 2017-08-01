@@ -24,7 +24,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Python Flask app on Azure App Service Web](https://github.com/Azure-Samples/python-docs-hello-world)
 * [Python sample for Azure App Service - Django](https://github.com/Azure-Samples/app-service-web-python-get-started)
 * [PHP sample for Azure App Service - CodeIgniter](https://github.com/Azure-Samples/app-service-web-php-get-started)
-* [Web application development with Node.js and Express using DocumentDB](https://github.com/Azure-Samples/documentdb-node-todo-app)
+* [Web application development with Node.js and Express using DocumentDB](https://github.com/sjwaight/documentdb-node-todo-app) - [notes](node-express-docdb.md) :thumbsup: 
 * [App Service Mobile completed quickstart for Node.js backend](https://github.com/Azure-Samples/app-service-mobile-nodejs-backend-quickstart)
 * [Python app](https://github.com/Microsoft/TechnicalCommunityContent/tree/master/Open%20Dev%20Framework/Python/Session%202%20-%20Hands%20On)
 * [Java on Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-create-your-first-linux-application-with-java)
