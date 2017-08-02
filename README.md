@@ -18,7 +18,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Build Java API in Azure App Service](https://docs.microsoft.com/en-au/azure/app-service-api/app-service-api-java-api-app)
 * [Build a Node.js RESTful API](https://docs.microsoft.com/en-au/azure/app-service-api/app-service-api-nodejs-api-app)
 * [Deploy Java 8 Spring Boot API to Azure App Service](https://blogs.msdn.microsoft.com/cloud_solution_architect/2016/11/23/deploy-java-8-spring-boot-api-to-azure-app-service/)
-* [Java Coffee Shop](https://github.com/Azure-Samples/app-service-web-java-get-started)
+* [Java Coffee Shop](https://github.com/Azure-Samples/app-service-web-java-get-started) - [notes](Java-Coffee-Shop.md) :thumbsup:
 * [Advanced: Java App - Scale an App](https://github.com/Azure-Samples/app-service-java-scale-web-apps-on-linux)
 * [Manage Azure websites with Ruby](https://github.com/Azure-Samples/app-service-web-ruby-manage)
 * [Python Flask app on Azure App Service Web](https://github.com/Azure-Samples/python-docs-hello-world)
