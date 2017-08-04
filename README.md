@@ -49,7 +49,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Developing a Java app using Azure Cosmos DB's MongoDB API](https://github.com/Azure-Samples/azure-cosmos-db-mongodb-java-getting-started)
 * [Getting Started with Azure Search using Java](	https://github.com/Azure-Samples/search-java-getting-started)
 * [A Simple Todo List Application built w/ Java + Azure DocumentDB](	https://github.com/Azure-Samples/documentdb-java-todo-app)
-* [Flask on Docker with external PostgreSQL database](	https://github.com/Azure-Samples/docker-flask-postgres)
+* [Flask on Docker with external PostgreSQL database](	https://github.com/Azure-Samples/docker-flask-postgres) - [notes](docker-flask-postgres.md) :thumbsup:
 * [Retwis - Twitter clone written in PHP with Redis](	https://github.com/Azure-Samples/app-service-web-php-retwis)
 * [Developing a Node.js app using Azure Cosmos DB](	https://github.com/Azure-Samples/azure-cosmos-db-documentdb-nodejs-getting-started)
 * [How to use Azure Redis Cache with Python](	https://docs.microsoft.com/en-us/azure/redis-cache/cache-python-get-started)
