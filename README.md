@@ -42,7 +42,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Postgres: create server + firewall rule](https://docs.microsoft.com/en-us/azure/postgresql/scripts/sample-create-server-and-firewall-rule?toc=%2fcli%2fazure%2ftoc.json)
 * [Postgres: scale a server](https://docs.microsoft.com/en-us/azure/postgresql/scripts/sample-scale-server-up-or-down?toc=%2fcli%2fazure%2ftoc.json)
 * [PHP + MySQL](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-php-mysql?toc=%2fazure%2fmysql%2ftoc.json)
-* [MySQL: create marketplace web app](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-create-web-app-from-marketplace?toc=%2fazure%2fmysql%2ftoc.json)
+* [MySQL: create marketplace web app](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-create-web-app-from-marketplace?toc=%2fazure%2fmysql%2ftoc.json) :thumbsup:
 * [MySQL: design a database](https://docs.microsoft.com/en-us/azure/mysql/tutorial-design-database-using-cli)
 * [MySQL: create server + firewall rule](https://docs.microsoft.com/en-us/azure/mysql/scripts/sample-create-server-and-firewall-rule?toc=%2fcli%2fazure%2ftoc.json)
 * [MySQL: scale a server](https://docs.microsoft.com/en-us/azure/mysql/scripts/sample-scale-server?toc=%2fcli%2fazure%2ftoc.json)
