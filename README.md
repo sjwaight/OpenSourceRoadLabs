@@ -51,7 +51,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [A Simple Todo List Application built w/ Java + Azure DocumentDB](	https://github.com/Azure-Samples/documentdb-java-todo-app)
 * [Flask on Docker with external PostgreSQL database](	https://github.com/Azure-Samples/docker-flask-postgres) - [notes](docker-flask-postgres.md) :thumbsup:
 * [Retwis - Twitter clone written in PHP with Redis](	https://github.com/Azure-Samples/app-service-web-php-retwis)
-* [Developing a Node.js app using Azure Cosmos DB](	https://github.com/Azure-Samples/azure-cosmos-db-documentdb-nodejs-getting-started)
+* [Developing a Node.js app using Azure Cosmos DB](	https://github.com/Azure-Samples/azure-cosmos-db-documentdb-nodejs-getting-started) :thumbsup:
 * [How to use Azure Redis Cache with Python](	https://docs.microsoft.com/en-us/azure/redis-cache/cache-python-get-started)
 * [How to use Azure Redis Cache with Node.js](	https://docs.microsoft.com/en-us/azure/redis-cache/cache-nodejs-get-started)
 * [How to use Azure Redis Cache with Java](https://docs.microsoft.com/en-us/azure/redis-cache/cache-java-get-started)
