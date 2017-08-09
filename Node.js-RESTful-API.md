@@ -1,8 +1,6 @@
 ### Build a Node.js RESTful API
 
-This tips will help you use Cloud Shell to do the lab.
-
-Here is how you can work around Cloud Shell's limitations:
+These tips will help you use Cloud Shell to do the lab.
 
 #### Prepare your environment
 
