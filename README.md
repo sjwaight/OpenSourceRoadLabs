@@ -16,7 +16,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Create PHP App](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-php)
 * [Create Python App](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-python)
 * [Build Java API in Azure App Service](https://docs.microsoft.com/en-au/azure/app-service-api/app-service-api-java-api-app)
-* [Build a Node.js RESTful API](https://docs.microsoft.com/en-au/azure/app-service-api/app-service-api-nodejs-api-app)
+* [Build a Node.js RESTful API](https://docs.microsoft.com/en-au/azure/app-service-api/app-service-api-nodejs-api-app) - *Important Note* - [notes](Node.js-RESTful-API.md) :thumbsup:
 * [Deploy Java 8 Spring Boot API to Azure App Service](https://blogs.msdn.microsoft.com/cloud_solution_architect/2016/11/23/deploy-java-8-spring-boot-api-to-azure-app-service/)
 * [Create a basic Azure web app using Eclipse](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-eclipse-create-hello-world-web-app)
 * [Create a basic Azure web app in IntelliJ](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-intellij-create-hello-world-web-app)
