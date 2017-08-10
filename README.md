@@ -3,6 +3,8 @@ A collection of links to various labs that can be used to demonstrate how Micros
 
 If you wish to add something or find something out-of-date or that doesn't work. Submit a PR or raise an Issue.
 
+> **Important note:** Many labs / exercises recommend trying the Azure Cloud Shell as a first step. While it is possible to do many of the labs listed with the Cloud Shell, you will find that there are certain steps that don't work or that you need to change. It may be worthwhile creating a Linux Virtual Machine on which you can run these labs instead if you are unfamiliar with Linux-based development.
+
 ## Development and Hosting Options
 
 * [Linux App Service: Wordpress + MySQL](https://github.com/Azure-App-Service/apps/tree/master/Wordpress) :thumbsup:
