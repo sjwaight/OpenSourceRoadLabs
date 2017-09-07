@@ -85,6 +85,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 
 ## Containers
 
+* [Containers on Azure - Intro Lab](https://github.com/shanepeckham/ContainersOnAzure_IntroLab)
 * [Manage Linux Web App With Container Registry - in Java](https://github.com/Azure-Samples/app-service-java-deploy-image-from-acr-to-linux)
 * [Azure Container Instances Quick Start](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart) :thumbsup:
 * [Azure Container Intances Multi-container groups](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-multi-container-group)
