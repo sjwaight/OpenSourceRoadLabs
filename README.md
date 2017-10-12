@@ -15,6 +15,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Python + PostgreSQL](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-docker-python-postgresql-app)
 * [Create Node.js App](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-nodejs)
 * [Create Java App](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-java)
+* [Build an Azure Function using Java](https://docs.microsoft.com/en-gb/azure/azure-functions/functions-create-first-java-maven)
 * [Create PHP App](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-php)
 * [Create Python App](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-python)
 * [Build Java API in Azure App Service](https://docs.microsoft.com/en-au/azure/app-service-api/app-service-api-java-api-app)
