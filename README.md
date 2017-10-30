@@ -62,6 +62,9 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Build an Azure Cosmos DB: API for MongoDB app using Node.js](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb-samples)
 * [Use MongoChef with an Azure Cosmos DB: API for MongoDB account](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb-mongochef)
 * [Use Robomongo with an Azure Cosmos DB: API for MongoDB account](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb-robomongo)
+* [Microsoft Challenges - Azure Search](https://github.com/Microsoft/code-challenges/tree/master/Labs/Azure%20Search)
+* [SQL Server on Linux on OpenShift](https://github.com/Microsoft/code-challenges/tree/master/Labs/SQL%20on%20Linux-Docker-OpenShift)
+* [.Net Core, Docker and SQL Server on Linux](https://docs.docker.com/compose/aspnet-mssql-compose/)
 
 ## Continuous Deployment
 
