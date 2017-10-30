@@ -7,8 +7,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 
 ## Development and Hosting Options
 
-* [Linux App Service: Wordpress + MySQL](https://github.com/Azure-App-Service/apps/tree/master/Wordpress) :thumbsup:
-* [Linux App Service: Drupal + MySQL](https://github.com/Azure-App-Service/apps/tree/master/drupal-mysql)
+* [Linux App Service: Docker Images](https://github.com/azure-app-service/apps)
 * [Linx App Service: Magneto + MySQL](https://github.com/Azure-App-Service/apps/tree/master/Magneto)
 * [Node.js + MongoDB](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-nodejs-mongodb-app)
 * [PHP (Laravel) + MySQL](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-php-mysql) - [notes](PHP-Laravel+MySQL.md) :thumbsup:
@@ -21,8 +20,6 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Build Java API in Azure App Service](https://docs.microsoft.com/en-au/azure/app-service-api/app-service-api-java-api-app)
 * [Build a Node.js RESTful API](https://docs.microsoft.com/en-au/azure/app-service-api/app-service-api-nodejs-api-app) - *Important Note* - [notes](Node.js-RESTful-API.md) :thumbsup:
 * [Deploy Java 8 Spring Boot API to Azure App Service](https://blogs.msdn.microsoft.com/cloud_solution_architect/2016/11/23/deploy-java-8-spring-boot-api-to-azure-app-service/)
-* [Create a basic Azure web app using Eclipse](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-eclipse-create-hello-world-web-app)
-* [Create a basic Azure web app in IntelliJ](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-intellij-create-hello-world-web-app)
 * [Java Coffee Shop](https://github.com/Azure-Samples/app-service-web-java-get-started) - [notes](Java-Coffee-Shop.md) :thumbsup:
 * [Advanced: Java App - Scale an App](https://github.com/Azure-Samples/app-service-java-scale-web-apps-on-linux)
 * [Manage Azure websites with Ruby](https://github.com/Azure-Samples/app-service-web-ruby-manage)
@@ -31,7 +28,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [PHP sample for Azure App Service - CodeIgniter](https://github.com/Azure-Samples/app-service-web-php-get-started)
 * [Web application development with Node.js and Express using DocumentDB](https://github.com/sjwaight/documentdb-node-todo-app) - [notes](node-express-docdb.md) :thumbsup: 
 * [App Service Mobile completed quickstart for Node.js backend](https://github.com/Azure-Samples/app-service-mobile-nodejs-backend-quickstart)
-* [Python app](https://github.com/Microsoft/TechnicalCommunityContent/tree/master/Open%20Dev%20Framework/Python/Session%202%20-%20Hands%20On)
+* [Using Python with Visual Studio Code](https://github.com/Microsoft/TechnicalCommunityContent/tree/master/Open%20Dev%20Framework/Python/Session%202%20-%20Hands%20On)
 * [Java on Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-create-your-first-linux-application-with-java)
 * [Java Reliable Actors (Service Fabric)](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-get-started-java)
 * [Java Reliable Services (Service Fabric)](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-services-quick-start-java)
@@ -39,6 +36,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * Advanced: Traffic Manager with App Service - pick one of the other labs and deploy it behind [Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/).
 * [App service CDN](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-content-delivery-network)
 * [Azure App Service Architecture (3): App Service on Linux](http://itnerd.space/2016/11/02/azure-app-service-architecture-3-app-service-on-linux/)
+* [.Net Core web app on App Service on Linux](https://docs.microsoft.com/en-gb/azure/app-service/containers/quickstart-dotnetcore)
 
 ## Datastores
 
