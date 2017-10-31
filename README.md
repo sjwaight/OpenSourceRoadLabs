@@ -100,6 +100,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Use Helm to deploy containers on a Kubernetes cluster](https://docs.microsoft.com/en-us/azure/container-service/container-service-kubernetes-helm)
 * [Use Draft with Azure Container Service and Azure Container Registry to build and deploy an application to Kubernetes	](	https://docs.microsoft.com/en-us/azure/container-service/container-service-draft-up)
 * [Push Docker Images to Azure Container Registry with Jenkins](https://github.com/Azure/azure-quickstart-templates/tree/master/201-jenkins-acr)
+* [Geo-replication with Azure Container Registry](https://docs.microsoft.com/en-au/azure/container-registry/container-registry-tutorial-prepare-registry)
 * [Create a private Docker container registry using the Azure CLI 2.0	](https://docs.microsoft.com/en-au/azure/container-registry/container-registry-get-started-azure-cli)
 * [Manage an Azure Container Service DC/OS cluster through the Marathon web UI](https://docs.microsoft.com/en-us/azure/container-service/container-service-mesos-marathon-ui)
 * [Enable public access to an Azure Container Service application (DC/OS)	](https://docs.microsoft.com/en-us/azure/container-service/container-service-enable-public-access)
