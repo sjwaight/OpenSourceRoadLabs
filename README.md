@@ -86,6 +86,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 
 ## Containers
 
+* [Getting started with Azure Kubernetes (AKS) clusters](https://docs.microsoft.com/en-gb/azure/aks/tutorial-kubernetes-prepare-app)
 * [Containers on Azure - Intro Lab](https://github.com/shanepeckham/ContainersOnAzure_IntroLab)
 * [Manage Linux Web App With Container Registry - in Java](https://github.com/Azure-Samples/app-service-java-deploy-image-from-acr-to-linux)
 * [Azure Container Instances Quick Start](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart) :thumbsup:
@@ -95,8 +96,9 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Hosting Jekyll on Azure App Service on Linux](http://anthonychu.ca/post/jekyll-azure-app-service-linux/)
 * [Jenkins integration with Azure Container Service and Kubernetes](https://docs.microsoft.com/en-us/azure/container-service/container-service-kubernetes-jenkins)
 * [Cool Store JBoss BRMS demo (run on a container in ACS or App Service)](https://github.com/jbossdemocentral/brms-coolstore-demo)
-* [Deploy container app (Service Fabric)](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-deploy-container-linux)
 * [Deploy to Kubernetes with Jenkins and Netflix Spinnaker](https://github.com/Azure/azure-quickstart-templates/tree/master/301-jenkins-acr-spinnaker-k8s)
+* [Use Helm to deploy containers on a Kubernetes cluster](https://docs.microsoft.com/en-us/azure/container-service/container-service-kubernetes-helm)
+* [Use Draft with Azure Container Service and Azure Container Registry to build and deploy an application to Kubernetes	](	https://docs.microsoft.com/en-us/azure/container-service/container-service-draft-up)
 * [Push Docker Images to Azure Container Registry with Jenkins](https://github.com/Azure/azure-quickstart-templates/tree/master/201-jenkins-acr)
 * [Create a private Docker container registry using the Azure CLI 2.0	](https://docs.microsoft.com/en-au/azure/container-registry/container-registry-get-started-azure-cli)
 * [Manage an Azure Container Service DC/OS cluster through the Marathon web UI](https://docs.microsoft.com/en-us/azure/container-service/container-service-mesos-marathon-ui)
@@ -104,8 +106,6 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Canary release microservices with Vamp on an Azure Container Service DC/OS cluster](https://docs.microsoft.com/en-us/azure/container-service/container-service-dcos-vamp-canary-release)
 * [Deploy a Spring Boot application on Linux in the Azure Container Service](https://docs.microsoft.com/en-us/azure/container-service/container-service-deploy-spring-boot-app-on-linux)
 * [Deploy a Spring Boot Application on a Kubernetes Cluster in the Azure Container Service](https://docs.microsoft.com/en-us/azure/container-service/container-service-deploy-spring-boot-app-on-kubernetes	)
-* [Use Helm to deploy containers on a Kubernetes cluster](https://docs.microsoft.com/en-us/azure/container-service/container-service-kubernetes-helm)
-* [Use Draft with Azure Container Service and Azure Container Registry to build and deploy an application to Kubernetes	](	https://docs.microsoft.com/en-us/azure/container-service/container-service-draft-up	)
 * [Run applications in Kubernetes (uses Voting App sample).](https://docs.microsoft.com/en-us/azure/container-service/container-service-tutorial-kubernetes-deploy-application)
 * [Scale Kubernetes pods and Kubernetes infrastructure](https://docs.microsoft.com/en-us/azure/container-service/container-service-tutorial-kubernetes-scale)
 * [Update an application in Kubernetes](https://docs.microsoft.com/en-us/azure/container-service/container-service-tutorial-kubernetes-app-update)
@@ -116,5 +116,5 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Deploying a JSP Web App to Azure App Service](https://alexandrebrisebois.wordpress.com/2015/09/15/azure-adventures-deploying-a-jsp-web-app-to-azure-app-service/)
 * [Azure Batch Python Samples](https://github.com/Azure/azure-batch-samples/tree/master/Python/Batch)
 * [Running CoreOS Container Linux on Microsoft Azure](https://coreos.com/os/docs/latest/booting-on-azure.html)
-* [Deploy a Linux container to Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-deploy-container-linux)
-* [	Docker Compose application support in Azure Service Fabric (Preview)](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-docker-compose)
+* [Deploy container app (Service Fabric)](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-deploy-container-linux)
+* [Docker Compose application support in Azure Service Fabric (Preview)](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-docker-compose)
