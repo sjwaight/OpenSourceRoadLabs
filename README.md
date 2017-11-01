@@ -40,6 +40,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 
 ## Datastores
 
+* [MySQL in 10 minutes on Azure](https://blog.siliconvalve.com/2017/06/30/zero-to-mysql-in-less-than-10-minutes-with-azure-database-for-mysql-and-azure-web-apps/)
 * [Python + PostgreSQL](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-docker-python-postgresql-app)
 * [Design a PostresSQL Database](https://docs.microsoft.com/en-us/azure/postgresql/tutorial-design-database-using-azure-cli)
 * [Postgres: create server + firewall rule](https://docs.microsoft.com/en-us/azure/postgresql/scripts/sample-create-server-and-firewall-rule?toc=%2fcli%2fazure%2ftoc.json)
@@ -52,11 +53,11 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Developing a Java app using Azure Cosmos DB's MongoDB API](https://github.com/Azure-Samples/azure-cosmos-db-mongodb-java-getting-started)
 * [Getting Started with Azure Search using Java](	https://github.com/Azure-Samples/search-java-getting-started)
 * [A Simple Todo List Application built w/ Java + Azure DocumentDB](	https://github.com/Azure-Samples/documentdb-java-todo-app)
-* [Flask on Docker with external PostgreSQL database](	https://github.com/Azure-Samples/docker-flask-postgres) - [notes](docker-flask-postgres.md) :thumbsup:
-* [Retwis - Twitter clone written in PHP with Redis](	https://github.com/Azure-Samples/app-service-web-php-retwis)
-* [Developing a Node.js app using Azure Cosmos DB](	https://github.com/Azure-Samples/azure-cosmos-db-documentdb-nodejs-getting-started) :thumbsup:
-* [How to use Azure Redis Cache with Python](	https://docs.microsoft.com/en-us/azure/redis-cache/cache-python-get-started)
-* [How to use Azure Redis Cache with Node.js](	https://docs.microsoft.com/en-us/azure/redis-cache/cache-nodejs-get-started)
+* [Flask on Docker with external PostgreSQL database](https://github.com/Azure-Samples/docker-flask-postgres) - [notes](docker-flask-postgres.md) :thumbsup:
+* [Retwis - Twitter clone written in PHP with Redis](https://github.com/Azure-Samples/app-service-web-php-retwis)
+* [Developing a Node.js app using Azure Cosmos DB](https://github.com/Azure-Samples/azure-cosmos-db-documentdb-nodejs-getting-started) :thumbsup:
+* [How to use Azure Redis Cache with Python](https://docs.microsoft.com/en-us/azure/redis-cache/cache-python-get-started)
+* [How to use Azure Redis Cache with Node.js](https://docs.microsoft.com/en-us/azure/redis-cache/cache-nodejs-get-started)
 * [How to use Azure Redis Cache with Java](https://docs.microsoft.com/en-us/azure/redis-cache/cache-java-get-started)
 * [Connect a web app in Azure App Service to Redis Cache via the Memcache protocol](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-connect-to-redis-using-memcache-protocol?toc=%2fazure%2fredis-cache%2ftoc.json)
 * [Build an Azure Cosmos DB: API for MongoDB app using Node.js](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb-samples)
