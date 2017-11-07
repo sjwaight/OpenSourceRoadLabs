@@ -7,6 +7,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 
 ## Development and Hosting Options
 
+* [Azure Serverless: Customer Car Reviews Sample](https://github.com/Azure-Samples/customer-car-reviews)
 * [Linux App Service: Docker Images](https://github.com/azure-app-service/apps)
 * [Linx App Service: Magneto + MySQL](https://github.com/Azure-App-Service/apps/tree/master/Magneto)
 * [Node.js + MongoDB](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-nodejs-mongodb-app)
