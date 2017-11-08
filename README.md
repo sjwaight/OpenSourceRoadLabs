@@ -70,6 +70,7 @@ If you wish to add something or find something out-of-date or that doesn't work.
 
 ## Continuous Deployment
 
+* [Movie Java Sample with Jenkins and Azure Container Service](https://github.com/Microsoft/movie-db-java-on-azure)
 * [Sample Java webapp with Maven configuration to deploy to Azure App Service](https://github.com/Azure-Samples/app-service-maven)	
 * [Contoso Moments](https://github.com/azure-appservice-samples/ContosoMoments) - no need to do Mobile component.
 * [Advanced only: Deploy Team City using a Docker Image](https://hub.docker.com/r/jetbrains/teamcity-server/)
