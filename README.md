@@ -7,6 +7,8 @@ If you wish to add something or find something out-of-date or that doesn't work.
 
 ## Development and Hosting Options
 
+[Section overview presentation (PDF)](presentations/01-Overview-and-hosting-options.pdf)
+
 * [Azure Serverless: Customer Car Reviews Sample](https://github.com/Azure-Samples/customer-car-reviews)
 * [Linux App Service: Docker Images](https://github.com/azure-app-service/apps)
 * [Linx App Service: Magneto + MySQL](https://github.com/Azure-App-Service/apps/tree/master/Magneto)
@@ -41,6 +43,8 @@ If you wish to add something or find something out-of-date or that doesn't work.
 
 ## Datastores
 
+[Section overview presentation (PDF)](presentations/02-Datastores.pdf)
+
 * [MySQL in 10 minutes on Azure](https://blog.siliconvalve.com/2017/06/30/zero-to-mysql-in-less-than-10-minutes-with-azure-database-for-mysql-and-azure-web-apps/)
 * [Python + PostgreSQL](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-docker-python-postgresql-app)
 * [Design a PostresSQL Database](https://docs.microsoft.com/en-us/azure/postgresql/tutorial-design-database-using-azure-cli)
@@ -70,6 +74,8 @@ If you wish to add something or find something out-of-date or that doesn't work.
 
 ## Continuous Deployment
 
+[Section overview presentation (PDF)](presentations/03-Continuous-Deployment.pdf)
+
 * [Movie Java Sample with Jenkins and Azure Container Service](https://github.com/Microsoft/movie-db-java-on-azure)
 * [Sample Java webapp with Maven configuration to deploy to Azure App Service](https://github.com/Azure-Samples/app-service-maven)	
 * [Contoso Moments](https://github.com/azure-appservice-samples/ContosoMoments) - no need to do Mobile component.
@@ -88,6 +94,8 @@ If you wish to add something or find something out-of-date or that doesn't work.
 * [Github: Automating code deployment with GitHub and Azure](https://github.com/blog/2056-automating-code-deployment-with-github-and-azure)
 
 ## Containers
+
+[Section overview presentation (PDF)](presentations/04-Containers-and-day-summary.pdf)
 
 * [Getting started with Azure Kubernetes (AKS) clusters](https://docs.microsoft.com/en-gb/azure/aks/tutorial-kubernetes-prepare-app)
 * [Containers on Azure - Intro Lab](https://github.com/shanepeckham/ContainersOnAzure_IntroLab)
